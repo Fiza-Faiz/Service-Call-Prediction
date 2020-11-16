@@ -1,8 +1,4 @@
 
-#Assignment 3
-
-#Shengjie Qian,Fiza Faiz,Suman Bramhacharya
-
 
 
 options(scipen = 9999)
