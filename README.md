@@ -4,17 +4,7 @@ This repository contains code for predicting the number of service calls a compa
 ## Getting Started
 To get started with this code, you'll need to have the following:
 
-1. Python 3.7 or higher
-2. Jupyter Notebook
-3. Pandas library
-4. Scikit-learn library
-5. Matplotlib library
-
-You can install these dependencies by running the following command:
-
-- pip install jupyter pandas scikit-learn matplotlib
-
-Once you have the dependencies installed, you can open the Service-Call-Prediction.ipynb notebook in Jupyter Notebook and run the code.
+1. R program
 
 ## Data
 The data folder contains the following files:
