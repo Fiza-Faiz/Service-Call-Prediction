@@ -1,2 +1,29 @@
-# Service-Call-Prediction
-The model tries to predict the number of sales calls that a maintenance company might be receiving based on climatic and weather conditions. The age of the car and the duration of connection with the company are also to be considered. The model tries to explore the important factors which are significant and help in getting a high accuracy of prediction.
+# Service Call Prediction
+This repository contains code for predicting the number of service calls a company is likely to receive on a given day. The prediction is based on historical data on service calls and weather conditions.
+
+## Getting Started
+To get started with this code, you'll need to have the following:
+
+1. Python 3.7 or higher
+2. Jupyter Notebook
+3. Pandas library
+4. Scikit-learn library
+5. Matplotlib library
+
+You can install these dependencies by running the following command:
+
+- pip install jupyter pandas scikit-learn matplotlib
+
+Once you have the dependencies installed, you can open the Service-Call-Prediction.ipynb notebook in Jupyter Notebook and run the code.
+
+## Data
+The data folder contains the following files:
+
+- service_calls.csv: This file contains historical data on service calls, including the number of calls and the date they were received.
+- weather.csv: This file contains historical weather data, including temperature, humidity, and wind speed.
+
+## Usage
+To use this code, open the Service-Call-Prediction.ipynb notebook in Jupyter Notebook and run the cells in order. The notebook will load the data, clean it, preprocess it, and train a machine learning model to make predictions. The final output will be a plot showing the predicted number of service calls for the next seven days.
+
+## Credits
+This code was created by Fiza Faiz. The data used in this code was obtained from OpenWeatherMap and Kaggle.
